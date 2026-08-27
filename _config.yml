@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
 title: Terminal K
+logo: /assets/images/logo.png
 description: Rambling about my gazillion hobbies.
+theme: jekyll-theme-minimal
