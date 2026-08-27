@@ -1,4 +1,4 @@
-Welcome to Terminal K.
+Welcome to Terminal K. Here be rambling.
 
 ## Posts
 
