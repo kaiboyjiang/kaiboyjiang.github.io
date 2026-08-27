@@ -1,3 +1,3 @@
-# kaiboyjiang.github.io
+A random blog.
 
-fooling around with github pages?!
+https://kaiboyjiang.github.io
