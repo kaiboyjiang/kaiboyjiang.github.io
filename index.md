@@ -1,8 +1,7 @@
 Welcome to Terminal K.
 
-## Pages
-{% for page in site.pages %}
-    {% if page.title %}
-        - [{{ page.title }}]({{ page.url }})
-    {% endif %}
+## Posts
+
+{% for post in site.posts %}
+  - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
