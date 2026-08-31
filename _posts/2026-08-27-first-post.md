@@ -1,5 +1,7 @@
 ---
 layout: default
+title: First post
+date: 2026-08-27
 ---
 
 # First post
