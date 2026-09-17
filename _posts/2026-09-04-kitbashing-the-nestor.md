@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kitbashing the Nestor
-date: 2026-09-04 (change this!)
+date: 2026-09-04
 ---
 
 # Kitbashing the Nestor
