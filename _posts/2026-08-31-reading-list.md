@@ -6,6 +6,11 @@ date: 2026-08-31
 
 # What I'm reading right now
 
+09/19/2026
+
+- *Three Deaths* by Leo Tolstoy
+- *Dune Messiah* by Frank Herbert
+
 09/15/2026
 
 - *The Woodfelling* by Leo Tolstoy
