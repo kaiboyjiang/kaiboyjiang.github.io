@@ -6,6 +6,10 @@ date: 2026-08-31
 
 # What I'm reading right now
 
+09/25/2026
+- *The Death of Ivan Ilyich* by Leo Tolstoy
+- *Dune Messiah* by Frank Herbert
+
 09/21/2026
 - *Polikushka* by Leo Tolstoy
 - *Dune Messiah* by Frank Herbert
