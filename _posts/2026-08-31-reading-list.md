@@ -6,6 +6,9 @@ date: 2026-08-31
 
 # What I'm reading right now
 
+10/10/2026
+- *Children of Dune* by Frank Herbert
+
 10/08/2026
 - *The Meek One* by Fyodor Dostoevsky
 - *Children of Dune* by Frank Herbert
