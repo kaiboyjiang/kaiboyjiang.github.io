@@ -6,6 +6,10 @@ date: 2026-08-31
 
 # What I'm reading right now
 
+10/17/2026
+- *The Forged Coupon* by Leo Tolstoy
+- *God Emperor of Dune* by Frank Herbert
+
 10/16/2026
 - *After the Ball* by Leo Tolstoy
 - *God Emperor of Dune* by Frank Herbert
