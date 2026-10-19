@@ -6,6 +6,11 @@ date: 2026-08-31
 
 # What I'm reading right now
 
+10/18/2026
+- *The Forged Coupon* by Leo Tolstoy
+- *God Emperor of Dune* by Frank Herbert
+- *Neon Genesis Evangelion* vol. 1/2/3
+
 10/17/2026
 - *The Forged Coupon* by Leo Tolstoy
 - *God Emperor of Dune* by Frank Herbert
