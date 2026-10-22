@@ -9,12 +9,12 @@ date: 2026-08-31
 10/21/2026
 - *Anna Karenina* by Leo Tolstoy
 - *God Emperor of Dune* by Frank Herbert
-- *Neon Genesis Evangelion* vol. 1/2/3
+- *Neon Genesis Evangelion* vol. 2
 
 10/18/2026
 - *The Forged Coupon* by Leo Tolstoy
 - *God Emperor of Dune* by Frank Herbert
-- *Neon Genesis Evangelion* vol. 1/2/3
+- *Neon Genesis Evangelion* vol. 1
 
 10/17/2026
 - *The Forged Coupon* by Leo Tolstoy
