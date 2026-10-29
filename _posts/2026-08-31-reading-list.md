@@ -6,6 +6,16 @@ date: 2026-08-31
 
 # What I'm reading right now
 
+10/29/2026
+- *Anna Karenina* by Leo Tolstoy
+- *God Emperor of Dune* by Frank Herbert
+- *Neon Genesis Evangelion* vol. 5
+
+10/26/2026
+- *Anna Karenina* by Leo Tolstoy
+- *God Emperor of Dune* by Frank Herbert
+- *Neon Genesis Evangelion* vol. 4
+
 10/22/2026
 - *Anna Karenina* by Leo Tolstoy
 - *God Emperor of Dune* by Frank Herbert
