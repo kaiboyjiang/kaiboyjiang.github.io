@@ -11,6 +11,10 @@ date: 2026-11-04
   - cost: $174 (excellent condition from MPB)
   - purchased: Sep 9, 2026
 
+- Nikon MB-D11
+  - cost: $41 (like new condition from MPB)
+  - purchased: Nov 1, 2026
+
 - Nikon AF-S DX Nikkor 18-70mm f/3.5-4.5G IF-ED
   - scratch on front element
   - cost: $49 (good condition from MPB)
