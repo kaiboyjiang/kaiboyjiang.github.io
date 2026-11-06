@@ -7,7 +7,7 @@ date: 2026-11-04
 # My photography gear
 
 - Nikon D7000
-  - shutter count: 21782 (purchased: 12283)
+  - shutter count: 23842 (purchased: 12283)
   - cost: $174 (excellent condition from MPB)
   - purchased: Sep 9, 2026
 
