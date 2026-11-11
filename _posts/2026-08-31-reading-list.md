@@ -6,6 +6,10 @@ date: 2026-08-31
 
 # What I'm reading right now
 
+11/09/2026
+- *Anna Karenina* by Leo Tolstoy
+- *Heretics of Dune* by Frank Herbert
+
 11/01/2026
 - *Anna Karenina* by Leo Tolstoy
 - *God Emperor of Dune* by Frank Herbert
